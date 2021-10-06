@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leptio
-- 👀 I’m interested in lua scripts
+- 👀 I’m interested in Lua scripts
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
