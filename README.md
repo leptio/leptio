@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leptio
 - 👀 I’m interested in Lua scripts
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
