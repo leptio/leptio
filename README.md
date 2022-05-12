@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @leptio
-- 👀 I’m interested in Lua scripts
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Lua and Java
+- 🌱 I’m currently learning C
 
 <!---
 leptio/leptio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
