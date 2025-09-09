@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leptio
-- 👀 I’m interested in Lua and Java
+- 👀 I know Lua, Java, JavaScript, and Python
 - 🌱 I’m currently learning C
 
 <!---
