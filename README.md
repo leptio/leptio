@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leptio
+- 👋 Hi, I’m Alex
 - 👀 I know Lua, Java, JavaScript, and Python
 - 🌱 I’m currently learning C
 
