@@ -1,6 +1,8 @@
 Hi! I'm Alexandre De Belen.
 
-Deeply interested in open-source software, digital freedom, environmental equity, and the prevention of food waste. 
+Interested in open-source software, digital freedom, environmental equity, and the prevention of food waste. 
+Currently working on digital logic systems.
+
 Feel free to reach out with any inquiries
 
 <!---
