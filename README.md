@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex
+- 👋 Hi, I’m Alexandre
 - 👀 I know Lua, Java, JavaScript, and Python
 - 🌱 I’m currently learning C
 
