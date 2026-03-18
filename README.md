@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Alexandre
-- 👀 I know Lua, Java, JavaScript, and Python
-- 🌱 I’m currently learning C
+Hi! I'm Alexandre De Belen.
+
+Deeply interested in open-source software, digital freedom, environmental equity, and the prevention of food waste. 
+Feel free to reach out with any inquiries
 
 <!---
 leptio/leptio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
