@@ -1,5 +1,5 @@
-Interested in open-source software, digital freedom, environmental equity, and the prevention of food waste. 
-Currently working on digital logic systems.
+Interested in open-source software, machine learning, high-frequency algorithms, and bullet chess. 
+Currently working on digital logic systems / formalization.
 
 Feel free to reach out with any inquiries
 
